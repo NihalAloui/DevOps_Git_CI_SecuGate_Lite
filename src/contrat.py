@@ -51,4 +51,4 @@ class Alerte:
     canal: str
     destinataire: str
     texte: str
-    pourquoi: str
+    pourquoi: str = ""
