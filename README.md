@@ -5,6 +5,7 @@ Mini-plateforme de surveillance des accès d'une application : trois agents
 (Collecte, Détection, Alerte) qui échangent via un contrat commun
 (src/contrat.py).
 ## Équipe
+* Najim Souad - Agent Alerte (C)
 secugate-lite/
 ├── README.md
 ├── .gitignore
