@@ -6,6 +6,7 @@ Mini-plateforme de surveillance des accès d'une application : trois agents
 (src/contrat.py).
 ## Équipe
 * Najim Souad - Agent Alerte (C)
+nihal aloui Agent 1 : Collecte
 secugate-lite/
 ├── README.md
 ├── .gitignore
