@@ -1,5 +1,5 @@
 
-from src.contract import Signal, Verdict
+from contrat import Signal, Verdict
 
 
 def est_deja_vu(sig: Signal, vus: set) -> bool:
